@@ -6,7 +6,7 @@ A modern, multi-page web application designed for a professional printing shop. 
 ---
 
 ## **Live Preview**  
-_Stay tuned for the live version!_  
+https://gurveerrakhra.github.io/liveWebsite.github.io/  
 
 ---
 
